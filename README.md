@@ -24,6 +24,3 @@ The Landing Page was built using the following technologies:
 6) After move 2 or 4 appears in a random empty cell. 4 probability is 10%
 7) When 2048 value is displayed in any cell, win message should be shown.
 8) The `game over` message should be shown if there are no more available moves.
-9) Hide start message when game starts.
-10) Change the `Start` button to `Restart` after the first move.
-11) Increase score with each move. The score should be increased by the sum of all merged cells.
