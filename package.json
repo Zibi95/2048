@@ -1,0 +1,22 @@
+{
+  "name": "2048v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.70.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
+    "eslint": "^8.56.0",
+    "parcel": "^2.11.0"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
