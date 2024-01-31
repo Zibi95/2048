@@ -127,6 +127,7 @@ h1 {
 .button {
   cursor: pointer;
   color: #f9f6f2;
+  text-align: center;
   border: none;
   border-radius: 5px;
   width: 75px;
